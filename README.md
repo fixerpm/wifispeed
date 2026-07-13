@@ -1,0 +1,3 @@
+# DOSTIM
+# speedtest
+# wifispeed
